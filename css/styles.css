@@ -4,6 +4,10 @@
 /* ==========================================================================
 Typography
 ========================================================================== */
+
+b{
+	color:#E83E72;
+}
 p {
   font-size: 15px;
   line-height: 29px;
@@ -364,7 +368,7 @@ Hero
     color: #fff;
     margin-bottom: 30px; }
 	.hero h1 span {
-    color: #CC3766;
+    color: #E83E72;
     margin-bottom: 30px; }
   .hero p.intro {
     color: #fff;
@@ -412,7 +416,7 @@ header {
         color: #fff;
         padding-right: 25px; }
         header ul.primary-nav li a:hover {
-          color: #e93f74; }
+          color: #E83E72; }
       header ul.primary-nav li:last-child a {
         padding-right: 0px; }
   header ul.member-actions li {
@@ -420,7 +424,7 @@ header {
     header ul.member-actions li a {
       color: #fff; }
       header ul.member-actions li a:hover {
-        color: #e93f74; }
+        color: #E83E72; }
   header .header-nav {
     display: inline-block; }
   header .member-actions {
